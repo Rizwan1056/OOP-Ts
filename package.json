@@ -1,0 +1,25 @@
+{
+  "name": "@rizwan_ahmed/oop",
+  "version": "1.1.0",
+  "description": "OOP Concept",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "oop": "index.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rizwan Ahmed Soomro",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
